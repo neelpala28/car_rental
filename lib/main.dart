@@ -1,7 +1,5 @@
-import 'package:car_rental/login_screen.dart';
-import 'package:dotlottie_loader/dotlottie_loader.dart';
+import 'package:car_rental/screens/login_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:lottie/lottie.dart';
 
 void main() {
   runApp(const MyApp());

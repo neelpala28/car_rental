@@ -1,4 +1,4 @@
-import 'package:car_rental/booking_screen.dart';
+import 'package:car_rental/screens/booking_screen.dart';
 import 'package:flutter/material.dart';
 
 class CarDetailScreen extends StatelessWidget {

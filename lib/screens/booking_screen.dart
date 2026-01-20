@@ -1,4 +1,4 @@
-import 'package:car_rental/booking_confirmation_screen.dart';
+import 'package:car_rental/screens/booking_confirmation_screen.dart';
 import 'package:flutter/material.dart';
 
 class BookingFormScreen extends StatelessWidget {
